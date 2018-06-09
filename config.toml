@@ -67,10 +67,9 @@ enableGitInfo = false
   email = "boomerang.cube@gmail.com"
   address = "東京都 目黒区"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "090-6598-6823"
+  # phone = "9999999999"
   # skype = "echo123"
-  telegram = ""
-  # twitter = "@kohki_nakaji"
+  # telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
