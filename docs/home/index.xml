@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>Publications</title>
       <link>https://nkjzm.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
@@ -82,6 +82,15 @@
       
       <guid>https://nkjzm.github.io/home/tags/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Achievement</title>
+      <link>https://nkjzm.github.io/home/achievement/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/home/achievement/</guid>
+      <description>第1回 VTuberハッカソン 結果: NOITOM賞, CGCGスタジオ賞, サマーレッスンプロデューサー玉置賞 チーム (6名) https://peatix.com/event/344725?lang=ja CEDEC 2017 インタラクティブ</description>
     </item>
     
     <item>

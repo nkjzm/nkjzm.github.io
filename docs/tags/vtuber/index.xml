@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VTuber on Nakaji Kohki</title>
+    <link>https://nkjzm.github.io/tags/vtuber/</link>
+    <description>Recent content in VTuber on Nakaji Kohki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://nkjzm.github.io/tags/vtuber/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>お手軽VTuber入門アセット</title>
+      <link>https://nkjzm.github.io/project/vtuberkit/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/project/vtuberkit/</guid>
+      <description>概要 2018/03/09に開催した勉強会で配布した入門アセットです。 https://supporterzcolab.com/event/321/ 配布アセット https://drive.google.com/drive/folders/1iGT-8ZlbmXShSTlC9NyYARSZe-Nq-OES 発表資料 https://docs.google.com/presentation/d/1rHCZAzplpVLNdqn_M05QYrbl4B1nwPQoGtcLrPLgMYM/edit 開発環境: Unity 内容</description>
+    </item>
+    
+    <item>
+      <title>水無月ライム</title>
+      <link>https://nkjzm.github.io/project/lime/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/project/lime/</guid>
+      <description>概要 開発環境: Unity 担当箇所: プログラム / モーション 内容</description>
+    </item>
+    
+  </channel>
+</rss>

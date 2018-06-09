@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Nakaji Kohki</title>
+    <link>https://nkjzm.github.io/tags/windows/</link>
+    <description>Recent content in Windows on Nakaji Kohki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://nkjzm.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>至近距離ガールVR</title>
+      <link>https://nkjzm.github.io/project/vrlocker/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/project/vrlocker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShakeShockSpider</title>
+      <link>https://nkjzm.github.io/project/shakeshockspider/</link>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/project/shakeshockspider/</guid>
+      <description>概要 名工大ハッカソンというイベントにて開発したVRコンテンツです。 開発環境: Unity 担当箇所: 振り落としのインタラクション部分 内容</description>
+    </item>
+    
+    <item>
+      <title>VR通勤電車</title>
+      <link>https://nkjzm.github.io/project/vrtsukin/</link>
+      <pubDate>Sat, 28 Feb 2015 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/project/vrtsukin/</guid>
+      <description>概要 2015.2.28に大須で行われた「バーチャル体験祭」に出展しました。 Oculus Rift DK2とトラッキングカメラを使用しています。 開発環境: UnrealEngine4 担当箇</description>
+    </item>
+    
+  </channel>
+</rss>

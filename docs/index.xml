@@ -11,12 +11,207 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Crevasse</title>
-      <link>https://nkjzm.github.io/publication/crevasse/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      <title>お手軽VTuber入門アセット</title>
+      <link>https://nkjzm.github.io/project/vtuberkit/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://nkjzm.github.io/publication/crevasse/</guid>
+      <guid>https://nkjzm.github.io/project/vtuberkit/</guid>
+      <description>
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2018/03/09に開催した勉強会で配布した入門アセットです。
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://supporterzcolab.com/event/321/&#34; target=&#34;_blank&#34;&gt;https://supporterzcolab.com/event/321/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;配布アセット
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1iGT-8ZlbmXShSTlC9NyYARSZe-Nq-OES&#34; target=&#34;_blank&#34;&gt;https://drive.google.com/drive/folders/1iGT-8ZlbmXShSTlC9NyYARSZe-Nq-OES&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;発表資料&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1rHCZAzplpVLNdqn_M05QYrbl4B1nwPQoGtcLrPLgMYM/edit&#34; target=&#34;_blank&#34;&gt;https://docs.google.com/presentation/d/1rHCZAzplpVLNdqn_M05QYrbl4B1nwPQoGtcLrPLgMYM/edit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/4GzGBSv1RXA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>水無月ライム</title>
+      <link>https://nkjzm.github.io/project/lime/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/project/lime/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/lime.jpg&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;担当箇所: プログラム / モーション&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/DLauGVvvKX0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Crevasse</title>
+      <link>https://nkjzm.github.io/project/crevasse/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/project/crevasse/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../img/projects/screenshot_00.jpg&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VRエンジニア養成読本</title>
+      <link>https://nkjzm.github.io/publication/vr-eingineer/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nkjzm.github.io/publication/vr-eingineer/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/publications/vr-engineer.jpg&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;執筆箇所&#34;&gt;執筆箇所&lt;/h1&gt;
+
+&lt;p&gt;共著という形で、以下の章について執筆させていただきました。&lt;/p&gt;
+
+&lt;h2 id=&#34;特集2-vrアプリデザイン実践入門&#34;&gt;[特集2] VRアプリデザイン実践入門&lt;/h2&gt;
+
+&lt;p&gt;〜「没入感」を生み出すコンセプト開発と空間設計〜&lt;/p&gt;
+
+&lt;h3 id=&#34;第1章-没入感を実現するコンセプト開発のポイント&#34;&gt;第1章：没入感を実現するコンセプト開発のポイント&lt;/h3&gt;
+
+&lt;p&gt;〜「至近距離ガールVR」に見るシステム，ビジュアル，サウンドの実現〜&lt;/p&gt;
+
+&lt;p&gt;著者: 中地 功貴，森 雅希&lt;/p&gt;
+
+&lt;h2 id=&#34;一般記事-360-度動画入門&#34;&gt;[一般記事] 360 度動画入門&lt;/h2&gt;
+
+&lt;p&gt;～PCやスマホで手軽に体験できる～&lt;/p&gt;
+
+&lt;p&gt;著者: 中地 功貴&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>至近距離ガールVR</title>
+      <link>https://nkjzm.github.io/project/vrlocker/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/project/vrlocker/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>ShakeShockSpider</title>
+      <link>https://nkjzm.github.io/project/shakeshockspider/</link>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/project/shakeshockspider/</guid>
+      <description>
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;名工大ハッカソンというイベントにて開発したVRコンテンツです。&lt;/li&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;担当箇所: 振り落としのインタラクション部分&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/UMn3mPo93tM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>VR通勤電車</title>
+      <link>https://nkjzm.github.io/project/vrtsukin/</link>
+      <pubDate>Sat, 28 Feb 2015 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/project/vrtsukin/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/tsukin.png&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2015.2.28に大須で行われた「バーチャル体験祭」に出展しました。&lt;/li&gt;
+&lt;li&gt;Oculus Rift DK2とトラッキングカメラを使用しています。&lt;/li&gt;
+&lt;li&gt;開発環境: UnrealEngine4&lt;/li&gt;
+&lt;li&gt;担当箇所: プログラム全般&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;体験内容&#34;&gt;体験内容&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;体験者には、頭を下げて「前に移動する操作」のみができると説明します。&lt;/li&gt;
+&lt;li&gt;コンテンツ開始。&lt;/li&gt;
+&lt;li&gt;駅のホームで電車を待っているシーンになります。&lt;/li&gt;
+&lt;li&gt;しばらくすると電車がホームに入ってきます。&lt;/li&gt;
+&lt;li&gt;ドアが開き、「前に移動する操作」で電車に乗り込みます&lt;/li&gt;
+&lt;li&gt;電車が出発し、少しすると画面がフェードアウトします。&lt;/li&gt;
+&lt;li&gt;2~6を繰り返します。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;最後にある方法(=&lt;code&gt;非日常体験&lt;/code&gt;)で体験を終了させてもらいます。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>妖怪コンパス</title>
+      <link>https://nkjzm.github.io/project/compass/</link>
+      <pubDate>Mon, 17 Nov 2014 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/project/compass/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/compass1.png&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;担当箇所: プログラム全般&lt;/li&gt;
+&lt;li&gt;iOS: &lt;a href=&#34;https://itunes.apple.com/jp/app/yao-guaikonpasu/id939410193?mt=8&#34; target=&#34;_blank&#34;&gt;https://itunes.apple.com/jp/app/yao-guaikonpasu/id939410193?mt=8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Android: &lt;a href=&#34;https://play.google.com/store/apps/details?id=jp.co.kohki.YokaiCompass&amp;amp;hl=ja&#34; target=&#34;_blank&#34;&gt;https://play.google.com/store/apps/details?id=jp.co.kohki.YokaiCompass&amp;amp;hl=ja&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;『妖怪コンパス』は、シンプルなのに無数の遊び方が楽しめる
+戦略型シミュレーションゲームです。
+基本操作はたった3種類の妖怪を「出す」だけ。
+あとは彼らが勝手に敵に向かっていきます。
+攻略の鍵は、妖怪たちの性質を活かして思い通りに動かせるか。
+60秒の制限時間の中で君はどれだけ攻め込めるか…?!&lt;/p&gt;
+</description>
     </item>
     
   </channel>
