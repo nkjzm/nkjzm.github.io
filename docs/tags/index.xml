@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on Nakaji Kohki</title>
     <link>https://nkjzm.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on Nakaji Kohki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-JP</language>
+    <copyright>&amp;copy; 2018</copyright>
     
 	<atom:link href="https://nkjzm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
