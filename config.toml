@@ -1,0 +1,9 @@
+baseURL = "https://nkjzm.github.io/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "anybodyhome"
+canonifyurls = true
+publishDir = "docs"
+
+
+
