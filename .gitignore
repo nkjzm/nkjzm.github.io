@@ -3,16 +3,15 @@
 
 ### Hugo ###
 # Hugo binary
-#hugo*
+hugo*
 
 # Generated files at default location
 /public/
-/themes/
 /resources/_gen
 
-
 ### macOS ###
-*.DS_Store
+# General
+.DS_Store
 .AppleDouble
 .LSOverride
 
