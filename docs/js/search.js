@@ -49,12 +49,8 @@ function initSearch(force, fuse) {
   let query = $("#search-query").val();
 
   // If query deleted, clear results.
-  if ( query.length < 1) {
+  if ( query.length < 1)
     $('#search-hits').empty();
-    $('.docs-content .article').show();
-  } else {
-    $('.docs-content .article').hide();
-  }
 
   // Check for timer event (enter key not pressed) and query less than minimum length required.
   if (!force && query.length < fuseOptions.minMatchCharLength)
@@ -71,10 +67,6 @@ function initSearch(force, fuse) {
 function searchAcademic(query, fuse) {
   let results = fuse.search(query);
   // console.log({"results": results});
-
-  if ($('.docs-content').length > 0)
-    $('#search-hits').append('<h1>' + i18n.results + '</h1>');
-
   if (results.length > 0) {
     parseResults(query, results);
   } else {
@@ -110,7 +102,7 @@ function parseResults(query, results) {
     var template = $('#search-hit-fuse-template').html();
 
     // Localize content types.
-    let content_key = value.item.section;
+    let content_key = value.item.type;
     if (content_key in content_type) {
       content_key = content_type[content_key];
     }
