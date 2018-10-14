@@ -4,6 +4,18 @@
 
 https://nkjzm.github.io/
 
+## Getting Started
+
+```
+git clone --recursive git@github.com:nkjzm/nkjzm.github.io.git
+```
+
+## Update Pages
+
+```
+git push origin source & git subtree push --prefix docs/ origin master
+```
+
 ## License
 
 Copyright 2017 [George Cushen](https://georgecushen.com).
