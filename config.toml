@@ -226,12 +226,12 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//twitter.com/kohki_nakaji"
 
   [[params.social]]
     icon = "facebook"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//www.facebook.com/kohki.nakaji"
 
   # [[params.social]]
@@ -241,17 +241,17 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//github.com/nkjzm"
 
     [[params.social]]
       icon = "link"
-      icon_pack = "fa"
+      icon_pack = "fas"
       link = "//kohki.hatenablog.jp/"
 
   [[params.social]]
     icon = "youtube"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//www.youtube.com/user/SplashBoomerang"
 
 # Navigation Links
