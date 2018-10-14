@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-    
     <url>
     
       <loc>https://nkjzm.github.io/project/vtuberkit/</loc>
@@ -10,7 +9,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -20,7 +18,6 @@
     
   
     
-    
     <url>
     
       <loc>https://nkjzm.github.io/project/crevasse/</loc>
@@ -28,7 +25,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -38,7 +34,6 @@
     
   
     
-    
     <url>
     
       <loc>https://nkjzm.github.io/project/vrlocker/</loc>
@@ -46,7 +41,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -56,7 +50,6 @@
     
   
     
-    
     <url>
     
       <loc>https://nkjzm.github.io/publication/</loc>
@@ -64,7 +57,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -74,7 +66,6 @@
     
   
     
-    
     <url>
     
       <loc>https://nkjzm.github.io/project/shakeshockspider/</loc>
@@ -82,7 +73,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -92,7 +82,6 @@
     
   
     
-    
     <url>
     
       <loc>https://nkjzm.github.io/project/compass/</loc>
@@ -100,7 +89,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -111,7 +99,6 @@
     
   
     
-    
     <url>
     
       <loc>https://nkjzm.github.io/tags/android/</loc>
@@ -121,7 +108,6 @@
     
   
     
-    
     <url>
     
       <loc>https://nkjzm.github.io/categories/</loc>
@@ -129,17 +115,6 @@
     </url>
     
   
-    
-    
-    <url>
-    
-      <loc>https://nkjzm.github.io/tags/ios/</loc>
-      <lastmod>2017-12-19T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
     
     <url>
     
@@ -150,7 +125,6 @@
     
   
     
-    
     <url>
     
       <loc>https://nkjzm.github.io/project/</loc>
@@ -159,7 +133,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -170,7 +143,6 @@
     
   
     
-    
     <url>
     
       <loc>https://nkjzm.github.io/tags/</loc>
@@ -179,7 +151,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -190,7 +161,6 @@
     
   
     
-    
     <url>
     
       <loc>https://nkjzm.github.io/tags/vtuber/</loc>
@@ -200,11 +170,19 @@
     
   
     
-    
     <url>
     
       <loc>https://nkjzm.github.io/tags/windows/</loc>
       <lastmod>2017-03-27T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://nkjzm.github.io/tags/ios/</loc>
+      <lastmod>2017-12-19T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     

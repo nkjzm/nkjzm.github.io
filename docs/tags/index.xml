@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>IOS</title>
-      <link>https://nkjzm.github.io/tags/ios/</link>
-      <pubDate>Tue, 19 Dec 2017 00:00:00 +0900</pubDate>
-      
-      <guid>https://nkjzm.github.io/tags/ios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>VR</title>
       <link>https://nkjzm.github.io/tags/vr/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0900</pubDate>
@@ -54,6 +45,15 @@
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0900</pubDate>
       
       <guid>https://nkjzm.github.io/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://nkjzm.github.io/tags/ios/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://nkjzm.github.io/tags/ios/</guid>
       <description></description>
     </item>
     
