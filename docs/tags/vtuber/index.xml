@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://nkjzm.github.io/tags/vtuber/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>お手軽VTuber入門アセット</title>
-      <link>https://nkjzm.github.io/project/vtuberkit/</link>
-      <pubDate>Fri, 09 Mar 2018 00:00:00 +0900</pubDate>
-      
-      <guid>https://nkjzm.github.io/project/vtuberkit/</guid>
-      <description>概要 2018/03/09に開催した勉強会で配布した入門アセットです。 https://supporterzcolab.com/event/321/ 配布アセット https://drive.google.com/drive/folders/1iGT-8ZlbmXShSTlC9NyYARSZe-Nq-OES 発表資料 https://docs.google.com/presentation/d/1rHCZAzplpVLNdqn_M05QYrbl4B1nwPQoGtcLrPLgMYM/edit 開発環境: Unity 内容</description>
-    </item>
     
     <item>
       <title>水無月ライム</title>
