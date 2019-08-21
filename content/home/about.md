@@ -12,11 +12,15 @@ weight = 5
   interests = [
     "xR (VR/AR/MR)",
     "UI/UX",
-    "ゲームグラフィックス",
-    "人工知能",
   ]
 
 # List your qualifications (such as academic degrees).
+
+[[education.courses]]
+  course = "日本VR学会認定バーチャルリアリティ技術者"
+  institution = "Virtual Reality Specialist"
+  year = "May 2018"
+
 [[education.courses]]
   course = "情報工学科 学士課程"
   institution = "名古屋工業大学 (Nagoya Institute of Technology)"
@@ -35,5 +39,4 @@ weight = 5
 - 1994.08.23
 
 
-株式会社メルカリ R4D XR所属。xRエンジニア。ゲーム開発者。
-幼少期にiPhone 3Gを手にいれたことをきっかけにUXの魅力に触れ，大学では自らがUX設計をできるゲーム開発にのめり込む。2015年，Oculus Rift DK2に触れた折に感銘を受け，VRの開発も始める。臨死体験ができる『VR通勤電車』など，VRを用いた新たな体験を模索している。
+2013年頃からゲームエンジンなどを用いたPC/スマホ向けゲームやVRコンテンツの開発を始める。個人開発やインターン、受託開発などで開発経験を積む。2017年3月に名古屋工業大学情報工学科学士課程修了後、株式会社サイバーエージェントに入社し、AbemaTV VRのリードエンジニアを務める。2018年10月から株式会社メルカリでxRに関する研究開発職に従事。2019年4月からはアミューズメントメディア総合学院にてVR専攻の非常勤講師も務める。また、過去2回のCEDECの公募にて採択された実績も持つ。

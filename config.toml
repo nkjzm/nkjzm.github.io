@@ -65,7 +65,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "icon.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "boomerang.cube@gmail.com"
-  address = "東京都 目黒区"
+  address = "東京都 渋谷区"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "9999999999"
   # skype = "echo123"
@@ -277,10 +277,6 @@ enableGitInfo = false
 #   url = "#posts"
 #   weight = 3
 #
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
 
 [[menu.main]]
   name = "Resume"
@@ -293,9 +289,15 @@ enableGitInfo = false
   weight = 6
 
 [[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 7
+
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Taxonomies.
 [taxonomies]
