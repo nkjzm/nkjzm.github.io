@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VTuber on Portforio</title>
+    <link>/tags/vtuber/</link>
+    <description>Recent content in VTuber on Portforio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0900</lastBuildDate>
+    
+	    <atom:link href="/tags/vtuber/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>モーションキャスト</title>
+      <link>/project/vmotion/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/project/vmotion/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/lime.jpg&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;担当箇所: プログラム / モーション&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/DLauGVvvKX0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>水無月ライム</title>
+      <link>/project/lime/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/project/lime/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/lime.jpg&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;担当箇所: プログラム / モーション&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/DLauGVvvKX0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

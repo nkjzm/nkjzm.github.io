@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VR on Portforio</title>
+    <link>/tags/vr/</link>
+    <description>Recent content in VR on Portforio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0900</lastBuildDate>
+    
+	    <atom:link href="/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>水無月ライム</title>
+      <link>/project/lime/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/project/lime/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/lime.jpg&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;担当箇所: プログラム / モーション&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/DLauGVvvKX0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>至近距離ガールVR</title>
+      <link>/project/vrlocker/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/project/vrlocker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR通勤電車</title>
+      <link>/project/vrtsukin/</link>
+      <pubDate>Sat, 28 Feb 2015 00:00:00 +0900</pubDate>
+      
+      <guid>/project/vrtsukin/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../../img/projects/tsukin.png&#34; alt=&#34;This is a image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2015.2.28に大須で行われた「バーチャル体験祭」に出展しました。&lt;/li&gt;
+&lt;li&gt;Oculus Rift DK2とトラッキングカメラを使用しています。&lt;/li&gt;
+&lt;li&gt;開発環境: UnrealEngine4&lt;/li&gt;
+&lt;li&gt;担当箇所: プログラム全般&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;体験内容&#34;&gt;体験内容&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;体験者には、頭を下げて「前に移動する操作」のみができると説明します。&lt;/li&gt;
+&lt;li&gt;コンテンツ開始。&lt;/li&gt;
+&lt;li&gt;駅のホームで電車を待っているシーンになります。&lt;/li&gt;
+&lt;li&gt;しばらくすると電車がホームに入ってきます。&lt;/li&gt;
+&lt;li&gt;ドアが開き、「前に移動する操作」で電車に乗り込みます&lt;/li&gt;
+&lt;li&gt;電車が出発し、少しすると画面がフェードアウトします。&lt;/li&gt;
+&lt;li&gt;2~6を繰り返します。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;最後にある方法(=&lt;code&gt;非日常体験&lt;/code&gt;)で体験を終了させてもらいます。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
