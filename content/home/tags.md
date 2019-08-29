@@ -1,13 +1,10 @@
 +++
 # Tag Cloud widget.
-widget = "tag_cloud"
-active = false
-date = 2017-09-20T00:00:00
+widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 120  # Order that this section will appear.
 
-title = "Tags"
+title = "Popular Topics"
 subtitle = ""
-
-# Order that this section will appear in.
-weight = 65
-
 +++

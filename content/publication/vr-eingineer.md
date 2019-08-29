@@ -1,6 +1,7 @@
 
 +++
 title = "VRエンジニア養成読本"
+featured = true
 
 # Date first published.
 date = "2017-04-11"
@@ -44,7 +45,7 @@ url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = "http://gihyo.jp/book/2017/978-4-7741-8894-2/support"
+# url_project = "http://gihyo.jp/book/2017/978-4-7741-8894-2/support"
 url_slides = ""
 url_video = ""
 url_poster = ""
@@ -66,6 +67,11 @@ highlight = true
 [header]
 image = ""
 caption = ""
+
+
+# [image]
+# RelPermalink = "publications/vr-engineer.jpg"
+
 
 +++
 
