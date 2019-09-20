@@ -6,10 +6,20 @@
     <description>Recent content on Nakaji Kohki</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2019 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2019 17:50:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3Dアバターにおける権利と倫理、開発者が出来る対策</title>
+      <link>/talk/2019-09-06/</link>
+      <pubDate>Fri, 06 Sep 2019 17:50:00 +0000</pubDate>
+      
+      <guid>/talk/2019-09-06/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://cedec.cesa.or.jp/2019/session/detail/s5ca0c91a1aeee&#34; target=&#34;_blank&#34;&gt;CEDEC2019: 3Dアバターにおける権利と倫理、開発者が出来る対策&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>第3回 VRM勉強会</title>
@@ -202,16 +212,6 @@
       
       <guid>/talk/2019-04-03/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://mercaridev.connpass.com/event/123663/&#34; target=&#34;_blank&#34;&gt;Mercari GDC 2019 報告会 - connpass&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>LookingGlassはいいぞ</title>
-      <link>/talk/2019-02-22/</link>
-      <pubDate>Fri, 22 Feb 2019 17:00:00 +0000</pubDate>
-      
-      <guid>/talk/2019-02-22/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/nkjzm/the-looking-glass-is-very-good&#34; target=&#34;_blank&#34;&gt;LookingGlassはいいぞ / The Looking Glass is very Good. - Speaker Deck&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -445,6 +445,16 @@
   &lt;iframe src=&#34;//www.youtube.com/embed/DLauGVvvKX0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>LookingGlassはいいぞ</title>
+      <link>/talk/2018-02-22/</link>
+      <pubDate>Thu, 22 Feb 2018 17:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018-02-22/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/nkjzm/the-looking-glass-is-very-good&#34; target=&#34;_blank&#34;&gt;LookingGlassはいいぞ / The Looking Glass is very Good. - Speaker Deck&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
