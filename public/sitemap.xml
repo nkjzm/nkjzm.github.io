@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/talk/2019-09-06/</loc>
+    <lastmod>2019-09-06T17:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-08-27T19:00:00+00:00</lastmod>
+    <lastmod>2019-09-06T17:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-09-06T17:50:00+00:00</lastmod>
   </url>
   
   <url>
@@ -25,11 +35,6 @@
   <url>
     <loc>/organizer/2019-08-01/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2019-07-19T19:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -85,11 +90,6 @@
   <url>
     <loc>/talk/2019-04-03/</loc>
     <lastmod>2019-04-03T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/2019-02-22/</loc>
-    <lastmod>2019-02-22T17:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -200,6 +200,11 @@
   <url>
     <loc>/project/lime/</loc>
     <lastmod>2018-03-03T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2018-02-22/</loc>
+    <lastmod>2018-02-22T17:00:00+00:00</lastmod>
   </url>
   
   <url>
