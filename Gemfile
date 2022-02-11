@@ -1,0 +1,10 @@
+﻿GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+
+BUNDLED WITH
+   2.1.4
