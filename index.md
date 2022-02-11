@@ -1,5 +1,5 @@
 ﻿---
 layout: redirected
 sitemap: false
-redirect_to: http://nkjzm.jp/
+redirect_to: https://nkjzm.jp/portfolio
 ---
