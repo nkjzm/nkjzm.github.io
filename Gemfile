@@ -1,10 +1,8 @@
-﻿GEM
-  specs:
+source "https://rubygems.org"
 
-PLATFORMS
-  ruby
+gem "github-pages", group: :jekyll_plugins
 
-DEPENDENCIES
-
-BUNDLED WITH
-   2.1.4
+group :jekyll_plugins do
+  gem "jekyll-redirect-from"
+  gem "jekyll-sitemap"
+end

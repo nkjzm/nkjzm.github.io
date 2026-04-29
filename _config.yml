@@ -1,2 +1,17 @@
-﻿plugins:
+title: Nakaji Kohki
+description: Engineer / VR Developer / YouTuber. 個人プロジェクトと活動をまとめたハブページです。
+url: https://nkjzm.github.io
+author: Nakaji Kohki
+lang: ja
+
+permalink: /:path/
+
+plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .git
