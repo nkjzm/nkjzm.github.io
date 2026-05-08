@@ -58,20 +58,20 @@ description: Engineer / VR Developer / YouTuber. 個人プロジェクトと活�
       <div class="stats">
         <div class="stats__card">
           <img
-            src="https://github-readme-stats.vercel.app/api?username=nkjzm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=FFFFFF00&title_color=312E81&text_color=4A4A52&icon_color=312E81"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nkjzm&theme=default"
             alt="GitHub stats for @nkjzm"
             loading="lazy" />
         </div>
         <div class="stats__card">
           <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkjzm&layout=compact&theme=tokyonight&hide_border=true&bg_color=FFFFFF00&title_color=312E81&text_color=4A4A52"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nkjzm&theme=default"
             alt="Top languages used by @nkjzm"
             loading="lazy" />
         </div>
         <div class="stats__card stats__card--contrib stats__contrib">
           <img
-            src="https://ghchart.rshah.org/312E81/nkjzm"
-            alt="GitHub contribution graph for @nkjzm"
+            src="https://streak-stats.demolab.com/?user=nkjzm&hide_border=true&background=FFFFFF&stroke=E5E2DA&ring=312E81&fire=4F46E5&currStreakLabel=312E81&sideLabels=4A4A52&dates=6B6B72&currStreakNum=1A1A1F&sideNums=1A1A1F"
+            alt="GitHub streak and contribution stats for @nkjzm"
             loading="lazy" />
         </div>
       </div>
